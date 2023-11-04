@@ -1,9 +1,6 @@
 # Web-developpment-project
 
-
-This is a summary in English:
-
-The text describes a web application developed for students to enroll in specific courses. The application is managed by an administrator who can accept or reject student enrollments. There are two main roles: the administrator, responsible for overseeing the entire application, and the student, who handles course enrollments.
+Web application developed for students to enroll in specific courses. The application is managed by an administrator who can accept or reject student enrollments. There are two main roles: the administrator, responsible for overseeing the entire application, and the student, who handles course enrollments.
 
 In educational institutions such as colleges or schools, there are often additional courses that students may want to take alongside their regular curriculum. To facilitate this, an application allows students to easily view and enroll in these courses.
 
